@@ -1,0 +1,21 @@
+body{
+    background-color: #eebf79;
+}
+
+
+.container{
+    max-width: 600px;
+    background-color: #ddeae4;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+textarea{
+    resize: none;
+}
